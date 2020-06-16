@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function TeamForm() {
+export default function SwatchForm() {
     return (
         <div>
-            This is the team form.
+            This is the Swatch form.
         </div>
     )
 }
